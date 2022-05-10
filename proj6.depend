@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1631640184 source:c:\users\myhp2\onedrive\desktop\c++\proj6\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+
+1631640184 source:c:\users\myhp2\desktop\c++\proj6\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+
